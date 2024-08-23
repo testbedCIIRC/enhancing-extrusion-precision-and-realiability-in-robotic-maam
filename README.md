@@ -11,4 +11,4 @@ This repository contains files for the paper titled "Enhancing Extrusion Precisi
 [![Watch the video](https://img.youtube.com/vi/HbyTjfO4eyg/0.jpg)](https://youtu.be/HbyTjfO4eyg)
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
-![Printing part in process - Propeler](https://github.com/user-attachments/assets/8fd0a217-9281-48e4-b2de-f671d574dbd7)
+
