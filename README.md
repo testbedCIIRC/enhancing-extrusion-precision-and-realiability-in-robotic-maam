@@ -2,9 +2,16 @@
 
 This repository contains files for the paper titled "Enhancing Extrusion Precision and Reliability in Robotic Multi-Axis Additive Manufacturing through Digital Twin Integration," with Tomáš Jochman as the main author.
 
+This project focuses on improving the precision and reliability of robotic multi-axis additive manufacturing (MAAM) through the innovative integration of a digital twin framework. By developing a comprehensive calibration procedure and optimizing key process parameters—specifically hot-end temperature, layer height, and tool center point (TCP) velocity—the study leverages simulations to achieve precise adjustments and automated code generation for robotic operations. Experimental validations demonstrate that carefully calibrated process parameters can significantly enhance print quality. This work highlights the potential for more accurate and reliable production of complex 3D-printed structures with reduced waste, underscoring the transformative role of digital twins in refining MAAM processes for industrial applications.
+
 # Project Contents
 
+
 # Key Features
+- **Digital Twin Integration:** The paper introduces the use of a digital twin framework to simulate and validate the robotic multi-axis additive manufacturing (MAAM) process, enabling automation of code generation.
+- **Comprehesinsive Calibration Procedure:** A systematic calibration procedure is developed to optimize process parameters, such as hot-end temperature, layer height, and TCP velocity, significantly enhancing print precision and reliability.
+- **Experimental Validation:** The effectiveness of the proposed calibration and optimization strategies is validated through experimental production and measurement of calibration artifacts, demonstrating improvements in print quality and dimensional accuracy.
+- **Process Optimization for Complex Structure:** The study highlights the potential for producing complex 3D-printed structures with reduced production waste by optimizing critical process parameters.
 
 # Video
 [![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
@@ -12,3 +19,15 @@ This repository contains files for the paper titled "Enhancing Extrusion Precisi
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
 
+
+
+https://github.com/user-attachments/assets/3df0faa5-07fb-4417-9b77-ad1c28ce0d4e
+
+
+
+https://github.com/user-attachments/assets/f22d63b1-7767-4188-a121-1bc10607244c
+
+![Printing a top of Propeler](https://github.com/user-attachments/assets/ebb1ff46-3895-4748-a4be-e2630397d923)
+![Printing part in process - Propeler](https://github.com/user-attachments/assets/61987d0e-562c-4b77-9908-03a8429836a5)
+![Printed parts](https://github.com/user-attachments/assets/0d28ee3a-c516-48be-9af3-c3acd9bcd774)
+![Printed part - Screw](https://github.com/user-attachments/assets/4bcd1e41-86d3-4564-a87e-d8aec476c24f)
