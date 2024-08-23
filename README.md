@@ -19,7 +19,7 @@ This project focuses on improving the precision and reliability of robotic multi
 - **Experimental Validation:** The effectiveness of the proposed calibration and optimization strategies is validated through experimental production and measurement of calibration artifacts, demonstrating improvements in print quality and dimensional accuracy.
 - **Process Optimization for Complex Structure:** The study highlights the potential for producing complex 3D-printed structures with reduced production waste by optimizing critical process parameters.
 
-# Video
+# Videos
 [![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
 [![Watch the video](https://img.youtube.com/vi/HbyTjfO4eyg/0.jpg)](https://youtu.be/HbyTjfO4eyg)
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
