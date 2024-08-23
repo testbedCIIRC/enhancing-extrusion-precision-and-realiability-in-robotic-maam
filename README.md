@@ -5,7 +5,11 @@ This repository contains files for the paper titled "Enhancing Extrusion Precisi
 This project focuses on improving the precision and reliability of robotic multi-axis additive manufacturing (MAAM) through the innovative integration of a digital twin framework. By developing a comprehensive calibration procedure and optimizing key process parameters—specifically hot-end temperature, layer height, and tool center point (TCP) velocity—the study leverages simulations to achieve precise adjustments and automated code generation for robotic operations. Experimental validations demonstrate that carefully calibrated process parameters can significantly enhance print quality. This work highlights the potential for more accurate and reliable production of complex 3D-printed structures with reduced waste, underscoring the transformative role of digital twins in refining MAAM processes for industrial applications.
 
 # Project Contents
-
+- **Measured Data:** Extrusion calibration measurements and deviation gauge measurements.
+- **Screen Recording from NX Siemens environment for:**
+  1. Setting up the extrusion calibration
+  2. Setting up the robot for 3D printing
+- **Videos from Real Workstation for MAAM:**
 
 # Key Features
 - **Digital Twin Integration:** The paper introduces the use of a digital twin framework to simulate and validate the robotic multi-axis additive manufacturing (MAAM) process, enabling automation of code generation.
