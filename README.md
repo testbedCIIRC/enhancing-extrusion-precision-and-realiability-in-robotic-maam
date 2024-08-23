@@ -9,7 +9,9 @@ This project focuses on improving the precision and reliability of robotic multi
 - **Screen Recording from NX Siemens environment for:**
   1. Setting up the extrusion calibration
   2. Setting up the robot for 3D printing
-- **Videos from Real Workstation for MAAM:**
+- **Videos and Images from Real Workstation for MAAM:**
+  1. Extrusion calibration
+  2. Manufacturing a complex part - curved tube
 
 # Key Features
 - **Digital Twin Integration:** The paper introduces the use of a digital twin framework to simulate and validate the robotic multi-axis additive manufacturing (MAAM) process, enabling automation of code generation.
@@ -22,15 +24,10 @@ This project focuses on improving the precision and reliability of robotic multi
 [![Watch the video](https://img.youtube.com/vi/HbyTjfO4eyg/0.jpg)](https://youtu.be/HbyTjfO4eyg)
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
-
-
-
 https://github.com/user-attachments/assets/3df0faa5-07fb-4417-9b77-ad1c28ce0d4e
-
-
-
 https://github.com/user-attachments/assets/f22d63b1-7767-4188-a121-1bc10607244c
 
+# Images
 ![Printing a top of Propeler](https://github.com/user-attachments/assets/ebb1ff46-3895-4748-a4be-e2630397d923)
 ![Printing part in process - Propeler](https://github.com/user-attachments/assets/61987d0e-562c-4b77-9908-03a8429836a5)
 ![Printed parts](https://github.com/user-attachments/assets/0d28ee3a-c516-48be-9af3-c3acd9bcd774)
