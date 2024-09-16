@@ -1,17 +1,10 @@
 # Enhancing Extrusion Precision and Reliability in Robotic Multi-Axis Additive Manufacturing through Digital Twin Integration
 
-This repository contains files for the paper titled "Enhancing Extrusion Precision and Reliability in Robotic Multi-Axis Additive Manufacturing through Digital Twin Integration," with Tomáš Jochman as the main author.
+This repository contains files for the paper titled "Enhancing Extrusion Precision and Reliability in Robotic Multi-Axis Additive Manufacturing through Digital Twin Integration," with Tomáš Jochman as the main author. To get the source codes and project, please contact one of the authors tomas.jochman@cvut.cz or pavel.burget@cvut.cz.
+
+Citation: T. Jochman et al., “Enhancing extrusion precision and reliability in robotic multi-axis additive manufacturing through digital twin integration,” in 2024 24th International Conference on Control, Automation and Systems. Jeju, Korea: IEEE, 2024.
 
 This project focuses on improving the precision and reliability of robotic multi-axis additive manufacturing (MAAM) through the innovative integration of a digital twin framework. By developing a comprehensive calibration procedure and optimizing key process parameters—specifically hot-end temperature, layer height, and tool center point (TCP) velocity—the study leverages simulations to achieve precise adjustments and automated code generation for robotic operations. Experimental validations demonstrate that carefully calibrated process parameters can significantly enhance print quality. This work highlights the potential for more accurate and reliable production of complex 3D-printed structures with reduced waste, underscoring the transformative role of digital twins in refining MAAM processes for industrial applications.
-
-# Project Contents
-- **Measured Data:** Extrusion calibration measurements and deviation gauge measurements.
-- **Screen Recording from NX Siemens environment for:**
-  1. Setting up the extrusion calibration
-  2. Setting up the robot for 3D printing
-- **Videos and Images from Real Workstation for MAAM:**
-  1. Extrusion calibration
-  2. Manufacturing a complex part - curved tube
 
 # Key Features
 - **Digital Twin Integration:** The paper introduces the use of a digital twin framework to simulate and validate the robotic multi-axis additive manufacturing (MAAM) process, enabling automation of code generation.
