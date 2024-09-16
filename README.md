@@ -18,5 +18,9 @@ This project focuses on improving the precision and reliability of robotic multi
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
 [![Watch the video](https://img.youtube.com/vi/HbyTjfO4eyg/0.jpg)](https://youtu.be/HbyTjfO4eyg)
 
+# Videos - Augmented Reality Control - Training and Operation
+[![Watch the video](https://img.youtube.com/vi/raUTKcHXZYA/0.jpg)](https://youtu.be/raUTKcHXZYA)
+[![Watch the video](https://img.youtube.com/vi/76P3DbbzgPQ/0.jpg)](https://youtu.be/76P3DbbzgPQ)
+
 # Images
 ![Printed_tubes_optimal suboptimal_process_parameters](https://github.com/user-attachments/assets/e11e5b85-7878-4653-aee8-9b4026a235ad)
