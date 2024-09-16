@@ -24,7 +24,7 @@ This project focuses on improving the precision and reliability of robotic multi
 [![Watch the video](https://img.youtube.com/vi/HbyTjfO4eyg/0.jpg)](https://youtu.be/HbyTjfO4eyg)
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
-https://github.com/user-attachments/assets/f22d63b1-7767-4188-a121-1bc10607244c
+[![Watch the video](https://github.com/user-attachments/assets/f22d63b1-7767-4188-a121-1bc10607244c)
 
 # Images
 ![Printed parts](https://github.com/user-attachments/assets/0d28ee3a-c516-48be-9af3-c3acd9bcd774)
