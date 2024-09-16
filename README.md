@@ -13,10 +13,10 @@ This project focuses on improving the precision and reliability of robotic multi
 - **Process Optimization for Complex Structure:** The study highlights the potential for producing complex 3D-printed structures with reduced production waste by optimizing critical process parameters.
 
 # Videos
-[![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
-[![Watch the video](https://img.youtube.com/vi/HbyTjfO4eyg/0.jpg)](https://youtu.be/HbyTjfO4eyg)
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
+[![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
+[![Watch the video](https://img.youtube.com/vi/HbyTjfO4eyg/0.jpg)](https://youtu.be/HbyTjfO4eyg)
 
 # Images
 ![Printed_tubes_optimal suboptimal_process_parameters](https://github.com/user-attachments/assets/e11e5b85-7878-4653-aee8-9b4026a235ad)
