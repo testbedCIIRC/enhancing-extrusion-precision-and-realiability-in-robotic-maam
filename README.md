@@ -30,4 +30,3 @@ https://github.com/user-attachments/assets/f22d63b1-7767-4188-a121-1bc10607244c
 ![Printing a top of Propeler](https://github.com/user-attachments/assets/ebb1ff46-3895-4748-a4be-e2630397d923)
 ![Printing part in process - Propeler](https://github.com/user-attachments/assets/61987d0e-562c-4b77-9908-03a8429836a5)
 ![Printed parts](https://github.com/user-attachments/assets/0d28ee3a-c516-48be-9af3-c3acd9bcd774)
-![Printed part - Screw](https://github.com/user-attachments/assets/4bcd1e41-86d3-4564-a87e-d8aec476c24f)
