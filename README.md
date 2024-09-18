@@ -6,21 +6,23 @@ Citation: T. Jochman et al., “Enhancing extrusion precision and reliability in
 
 This project focuses on improving the precision and reliability of robotic multi-axis additive manufacturing (MAAM) through the innovative integration of a digital twin framework. By developing a comprehensive calibration procedure and optimizing key process parameters—specifically hot-end temperature, layer height, and tool center point (TCP) velocity—the study leverages simulations to achieve precise adjustments and automated code generation for robotic operations. Experimental validations demonstrate that carefully calibrated process parameters can significantly enhance print quality. This work highlights the potential for more accurate and reliable production of complex 3D-printed structures with reduced waste, underscoring the transformative role of digital twins in refining MAAM processes for industrial applications.
 
-# Key Features
+## Key Features ##
 - **Digital Twin Integration:** The paper introduces the use of a digital twin framework to simulate and validate the robotic multi-axis additive manufacturing (MAAM) process, enabling automation of code generation.
 - **Comprehesinsive Calibration Procedure:** A systematic calibration procedure is developed to optimize process parameters, such as hot-end temperature, layer height, and TCP velocity, significantly enhancing print precision and reliability.
 - **Experimental Validation:** The effectiveness of the proposed calibration and optimization strategies is validated through experimental production and measurement of calibration artifacts, demonstrating improvements in print quality and dimensional accuracy.
 - **Process Optimization for Complex Structure:** The study highlights the potential for producing complex 3D-printed structures with reduced production waste by optimizing critical process parameters.
 
-# Videos
+## Videos - Calibration Procedures ##
 [![Watch the video](https://img.youtube.com/vi/W30Yxqppxts/0.jpg)](https://youtu.be/W30Yxqppxts)
 [![Watch the video](https://img.youtube.com/vi/Vr6lDgBZacE/0.jpg)](https://youtu.be/Vr6lDgBZacE)
+
+## Videos - Simulation and Manufacturing ##
 [![Watch the video](https://img.youtube.com/vi/HVP27mbQvT0/0.jpg)](https://youtu.be/HVP27mbQvT0)
 [![Watch the video](https://img.youtube.com/vi/HbyTjfO4eyg/0.jpg)](https://youtu.be/HbyTjfO4eyg)
 
-# Videos - Augmented Reality Control - Training and Operation
+## Videos - Augmented Reality Control - Training and Operation ##
 [![Watch the video](https://img.youtube.com/vi/raUTKcHXZYA/0.jpg)](https://youtu.be/raUTKcHXZYA)
 [![Watch the video](https://img.youtube.com/vi/76P3DbbzgPQ/0.jpg)](https://youtu.be/76P3DbbzgPQ)
 
-# Images
+## Images ##
 ![Printed_tubes_optimal suboptimal_process_parameters](https://github.com/user-attachments/assets/e11e5b85-7878-4653-aee8-9b4026a235ad)
